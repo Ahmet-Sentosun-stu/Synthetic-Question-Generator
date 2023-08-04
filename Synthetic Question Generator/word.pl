@@ -1,8 +1,8 @@
-word(n, [adï¿½ye]).
+word(n, [adüye]).
 word(v, [gitmektedir]).
 
 word(q, [nereye]).
 word(q, [nere]).
 
-word(np, [605,numaralï¿½,otobï¿½s]).
-word(qp, [kaï¿½,numaralï¿½,otobï¿½s]).
+word(np, [605,numaralý,otobüs]).
+word(qp, [kaç,numaralý,otobüs]).

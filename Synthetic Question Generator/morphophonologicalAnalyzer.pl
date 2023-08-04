@@ -77,102 +77,100 @@ t(qv4a,pDefIndic,qv5).
 t(qv4b,pIndic,qv5).
 
 allomorph(durak, noun).
-allomorph(otobÃ¼s, noun).
+allomorph(otobüs, noun).
 allomorph(hat, noun).
 allomorph(numara, noun).
 allomorph(fiyat, noun).
-allomorph(Ã¼cret, noun).
-allomorph(kÃ¶pek, noun).
+allomorph(ücret, noun).
+allomorph(köpek, noun).
 allomorph(kedi, noun).
 allomorph(siyah, noun).
 
-allomorph(Ã§ine, noun).
-allomorph(bozdoÄŸan, noun).
+allomorph(çine, noun).
+allomorph(bozdoðan, noun).
 allomorph(incirliova, noun).
 allomorph(kuyucak, noun).
 allomorph(nazilli, noun).
-allomorph(garÄ±n, noun).
-allomorph(adÃ¼, noun).
+allomorph(garýn, noun).
+allomorph(adü, noun).
 allomorph(karpuzlu, noun).
 allomorph(otogar, noun).
 allomorph(hisar, noun).
 allomorph(pazar, noun).
-allomorph(garÄ±, noun).
+allomorph(garý, noun).
 allomorph(tren, noun).
 allomorph(zafer, noun).
-allomorph(koÃ§arlÄ±, noun).
+allomorph(koçarlý, noun).
 allomorph(efeler, noun).
 allomorph(sultan, noun).
-allomorph(aydÄ±n, noun).
-allomorph(adÃ¼ , noun).
+allomorph(aydýn, noun).
+allomorph(adü , noun).
 allomorph(germencik, noun).
-allomorph(meydanÄ±, noun).
-allomorph(kuÅŸadasÄ±, noun).
+allomorph(meydaný, noun).
+allomorph(kuþadasý, noun).
 allomorph(karacasu, noun).
-allomorph(sÃ¶ke, noun).
-allomorph(kÃ¶ÅŸk, noun).
+allomorph(söke, noun).
+allomorph(köþk, noun).
 allomorph(forum, noun).
 allomorph(istasyon, noun).
-allomorph(cisim, noun).
-
 
 allomorph(git,verb).
-allomorph(geÃ§,verb).
+allomorph(geç,verb).
 allomorph(var,verb).
 allomorph(dur,verb).
 allomorph(yap,verb).
 allomorph(kovala,verb).
-allomorph(kovalÄ±,verb).
+allomorph(kovalý,verb).
 allomorph(havla,verb).
-allomorph(havlÄ±,verb).
+allomorph(havlý,verb).
 
 allomorph(ler,plur).
 allomorph(lar,plur).
 
 allomorph(i,poss).
-allomorph(Ä±,poss).
+allomorph(ý,poss).
 allomorph(u,poss).
-allomorph(Ã¼,poss).
-allomorph(Ä±m,poss).
+allomorph(ü,poss).
+allomorph(ým,poss).
 allomorph(im,poss).
 allomorph(um,poss).
-allomorph(Ã¼m,poss).
-allomorph(Ä±n,poss).
+allomorph(üm,poss).
+allomorph(ýn,poss).
 allomorph(in,poss).
 allomorph(un,poss).
-allomorph(Ã¼n,poss).
-allomorph(Ä±mÄ±z,poss).
+allomorph(ün,poss).
+allomorph(ýmýz,poss).
 allomorph(imiz,poss).
 allomorph(umuz,poss).
-allomorph(Ã¼mÃ¼z,poss).
-allomorph(Ä±nÄ±z,poss).
+allomorph(ümüz,poss).
+allomorph(ýnýz,poss).
 allomorph(iniz,poss).
 allomorph(unuz,poss).
-allomorph(Ã¼nÃ¼z,poss).
-allomorph(larÄ±,poss).
+allomorph(ünüz,poss).
+allomorph(larý,poss).
 allomorph(leri,poss).
 allomorph(si,poss).
-allomorph(sÄ±,poss).
+allomorph(sý,poss).
 allomorph(su,poss).
-allomorph(sÃ¼,poss).
+allomorph(sü,poss).
 allomorph(m,poss).
 allomorph(n,poss).
-allomorph(mÄ±z,poss).
+allomorph(mýz,poss).
 allomorph(miz,poss).
 allomorph(muz,poss).
-allomorph(mÃ¼z,poss).
-allomorph(nÄ±z,poss).
+allomorph(müz,poss).
+allomorph(nýz,poss).
 allomorph(niz,poss).
 allomorph(nuz,poss).
-allomorph(nÃ¼z,poss).
+allomorph(nüz,poss).
 
 allomorph(i,acc).
-allomorph(Ä±,acc).
-allomorph(sÄ±,acc).
+allomorph(ý,acc).
+allomorph(sý,acc).
 allomorph(u,acc).
-allomorph(Ã¼,acc).
+allomorph(ü,acc).
 allomorph(yi,acc).
-allomorph(yÃ¼,acc).
+allomorph(yý,acc).
 
 allomorph(den,abl).
 allomorph(dan,abl).
@@ -190,21 +188,21 @@ allomorph(te,loc).
 allomorph(ta,loc).
 
 allomorph(in,gen).
-allomorph(Ä±n,gen).
+allomorph(ýn,gen).
 allomorph(un,gen).
-allomorph(Ã¼n,gen).
+allomorph(ün,gen).
 
 allomorph(ki,rel).
 
 allomorph(li,der).
-allomorph(lÄ±,der).
+allomorph(lý,der).
 
 allomorph(ma,neg).
 allomorph(me,neg).
-allomorph(mÄ±,neg).
+allomorph(mý,neg).
 allomorph(mi,neg).
 allomorph(mu,neg).
-allomorph(mÃ¼,neg).
+allomorph(mü,neg).
 
 allomorph(ebil,ablty).
 allomorph(abil,ablty).
@@ -212,27 +210,27 @@ allomorph(abil,ablty).
 allomorph(mek,inf).
 allomorph(mak,inf).
 
-allomorph(dÄ±,tDefPast).
+allomorph(dý,tDefPast).
 allomorph(di,tDefPast).
 allomorph(te,tDefPast).
 allomorph(ta,tDefPast).
-allomorph(tÄ±,tDefPast).
+allomorph(tý,tDefPast).
 allomorph(ti,tDefPast).
 allomorph(du,tDefPast).
-allomorph(dÃ¼,tDefPast).
+allomorph(dü,tDefPast).
 allomorph(tu,tDefPast).
-allomorph(tÃ¼,tDefPast).
+allomorph(tü,tDefPast).
 
-allomorph(mÄ±ÅŸ,tInDefPast).
-allomorph(miÅŸ,tInDefPast).
-allomorph(muÅŸ,tInDefPast).
-allomorph(mÃ¼ÅŸ,tInDefPast).
+allomorph(mýþ,tInDefPast).
+allomorph(miþ,tInDefPast).
+allomorph(muþ,tInDefPast).
+allomorph(müþ,tInDefPast).
 
 allomorph(yor,tProg).
-allomorph(Ä±yor,tProg).
+allomorph(ýyor,tProg).
 allomorph(iyor,tProg).
 allomorph(uyor,tProg).
-allomorph(Ã¼yor,tProg).
+allomorph(üyor,tProg).
 
 allomorph(ecek,tFut).
 allomorph(acak,tFut).
@@ -240,17 +238,17 @@ allomorph(yecek,tFut).
 allomorph(yacak,tFut).
 
 allomorph(r, tAor).
-allomorph(Ä±r,tAor).
+allomorph(ýr,tAor).
 allomorph(ir,tAor).
 allomorph(ur,tAor).
-allomorph(Ã¼r,tAor).
+allomorph(ür,tAor).
 allomorph(ar,tAor).
 allomorph(er,tAor).
-allomorph(dÄ±r,tAor).
+allomorph(dýr,tAor).
 allomorph(dir,tAor).
 
 allomorph(meli,tNec).
-allomorph(malÄ±,tNec).
+allomorph(malý,tNec).
 
 allomorph(se,tCon).
 allomorph(sa,tCon).
@@ -263,50 +261,50 @@ allomorph(ya,tOpt).
 allomorph(se,aCon).
 allomorph(sa,aCon).
 
-allomorph(dÄ±,aDefPast).
+allomorph(dý,aDefPast).
 allomorph(di,aDefPast).
-allomorph(tÄ±,aDefPast).
+allomorph(tý,aDefPast).
 allomorph(ti,aDefPast).
 allomorph(du,aDefPast).
-allomorph(dÃ¼,aDefPast).
+allomorph(dü,aDefPast).
 allomorph(tu,aDefPast).
-allomorph(tÃ¼,aDefPast).
+allomorph(tü,aDefPast).
 
-allomorph(mÄ±ÅŸ,aInDefPast).
-allomorph(miÅŸ,aInDefPast).
-allomorph(muÅŸ,aInDefPast).
-allomorph(mÃ¼ÅŸ,aInDefPast).
+allomorph(mýþ,aInDefPast).
+allomorph(miþ,aInDefPast).
+allomorph(muþ,aInDefPast).
+allomorph(müþ,aInDefPast).
 
-allomorph(Ä±m,pIndic).
+allomorph(ým,pIndic).
 allomorph(im,pIndic).
 allomorph(um,pIndic).
-allomorph(Ã¼mm,pIndic).
-allomorph(yÄ±m,pIndic).
+allomorph(üm,pIndic).
+allomorph(yým,pIndic).
 allomorph(yim,pIndic).
 allomorph(yum,pIndic).
-allomorph(yÃ¼m,pIndic).
-allomorph(sÄ±n,pIndic).
+allomorph(yüm,pIndic).
+allomorph(sýn,pIndic).
 allomorph(sin,pIndic).
 allomorph(sun,pIndic).
-allomorph(sÃ¼n,pIndic).
-allomorph(Ä±z,pIndic).
+allomorph(sün,pIndic).
+allomorph(ýz,pIndic).
 allomorph(iz,pIndic).
 allomorph(uz,pIndic).
-allomorph(Ã¼z,pIndic).
-allomorph(sÄ±nÄ±z,pIndic).
+allomorph(üz,pIndic).
+allomorph(sýnýz,pIndic).
 allomorph(siniz,pIndic).
 allomorph(sunuz,pIndic).
-allomorph(sÃ¼nÃ¼z,pIndic).
+allomorph(sünüz,pIndic).
 allomorph(ler,pIndic).
 allomorph(lar,pIndic).
 
 allomorph(m,pDefIndic).
 allomorph(n,pDefIndic).
 allomorph(k,pDefIndic).
-allomorph(nÄ±z,pDefIndic).
+allomorph(nýz,pDefIndic).
 allomorph(niz,pDefIndic).
 allomorph(nuz,pDefIndic).
-allomorph(nÃ¼z,pDefIndic).
+allomorph(nüz,pDefIndic).
 allomorph(ler,pDefIndic).
 allomorph(lar,pDefIndic).
 
@@ -322,11 +320,48 @@ analyze('', [], FinalState):-
 %% Recursive
 analyze(String, [NormalizedPrefix|RestAllomorphList], CurrentState):-
    concat(Prefix, Suffix, String),
-   %%check_softening(Prefix, NormalizedPrefix),
+   check_softening(Prefix, NormalizedPrefix),
    allomorph(NormalizedPrefix, Allomorph),
    t(CurrentState, Allomorph, NextState),
    analyze(Suffix, RestAllomorphList, NextState).
 
+check_softening(Prefix, NormalizedPrefix):-
+   string_codes(Prefix, PrefixList),
+   reverse(PrefixList, [PCode1|RestPCode]),
+   char_code(PChar1, PCode1),
+   (
+      (
+         ((PChar1 = ð); (PChar1 = g)),
+         char_code(k, KCode),
+         reverse(NormalizedPrefixList, [KCode|RestPCode]),
+         string_codes(NormalizedPrefixStr, NormalizedPrefixList)
+         
+      );
+      (
+         (PChar1 = b),
+         char_code(p, KCode),
+         reverse(NormalizedPrefixList, [KCode|RestPCode]),
+         string_codes(NormalizedPrefixStr, NormalizedPrefixList)
 
+      );
+      (
+         (PChar1 = c),
+         char_code(ç, KCode),
+         reverse(NormalizedPrefixList, [KCode|RestPCode]),
+         string_codes(NormalizedPrefixStr, NormalizedPrefixList)
+
+      );
+      (
+         (PChar1 = d),
+         char_code(t, KCode),
+         reverse(NormalizedPrefixList, [KCode|RestPCode]),
+         string_codes(NormalizedPrefixStr, NormalizedPrefixList)
+
+      );
+      (
+         string_codes(NormalizedPrefixStr, PrefixList)
+      )
+   ),
+   atom_string(NormalizedPrefix, NormalizedPrefixStr).
    
    

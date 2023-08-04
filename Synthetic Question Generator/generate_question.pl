@@ -1,4 +1,4 @@
-% Query: generate_question([[adï¿½ye],[605,numaralï¿½,otobï¿½s],[gitmektedir]], Q).
+% Query: generate_question([[adüye],[605,numaralý,otobüs],[gitmektedir]], Q).
 
 :- include('word.pl').
 :- include('annotation.pl').
@@ -61,5 +61,5 @@ generate_annotation_question([List|RestIN], [List|RestOUT]) :-
     
     
 get_question_word([Ann|[All]], Q_String) :-
-    ( Ann == b-location -> Q_Word = nere ; ( Ann == b-num -> Q_Word = kaï¿½ ) ),
+    ( Ann == b-location -> Q_Word = nere ; ( Ann == b-num -> Q_Word = kaç ) ),
     concat(Q_Word, All, Q_String).
